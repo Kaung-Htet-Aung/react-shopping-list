@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+.lists{
+    margin: 50px;
+    
+}
+.shopItem{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: rebeccapurple;
+        margin-top: 20px;
+        padding: 10px;
+      
+        color:whitesmoke;
+}
+.quantity{
+    display: flex;
+    justify-content: center;
+    background-color: darkslategrey;
+}
+.num{
+    font-weight: bold;
+    width: 20px;
+    text-align: center;
+    color: white;
+}
